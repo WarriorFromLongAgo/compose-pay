@@ -1,3 +1,6 @@
+策略模式+工厂模式的优化
+
+
 # compose-pay
 
 [![HitCount](http://hits.dwyl.io/pleuvoir/compose-pay.svg)](http://hits.dwyl.io/pleuvoir/compose-pay) 
